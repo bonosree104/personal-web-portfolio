@@ -1,0 +1,43 @@
+.name-highlight{
+    color:palevioletred;
+    
+}
+h2{
+    text-align: center;
+}
+p{
+    color:blue;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.link-button{
+    border:5px solid palevioletred;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:palevioletred;
+    color: papayawhip;
+    padding :5px;
+}
+.half-width{
+    float: left;
+    width:40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+    
+}
+section{
+    height:500px;
+    padding-bottom: 250px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
